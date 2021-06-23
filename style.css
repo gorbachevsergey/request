@@ -1,0 +1,36 @@
+.headTitle{
+    text-align: center;
+}
+
+.btnLoad{
+    width:150px;
+    height:75px;
+    margin-top:425px;
+    margin-right: 500px;
+
+
+}
+
+.loadOnServer{
+    width:450px;
+    height:500px;
+    border:1px solid;
+    text-align: center;
+    overflow: scroll;
+}
+
+h1{
+    font-size: 28px;
+    color: chocolate;
+}
+
+h2{
+    font-size: 14px;
+    text-align: left;
+    padding-left: 7%;
+    color: blue;
+}
+
+.load{
+    display: flex;
+}
