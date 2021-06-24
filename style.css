@@ -15,20 +15,16 @@
     width:450px;
     height:500px;
     border:1px solid;
-    text-align: center;
     overflow: scroll;
 }
 
 h1{
     font-size: 28px;
     color: chocolate;
+    text-align: center;
 }
-
-h2{
-    font-size: 14px;
+ul{
     text-align: left;
-    padding-left: 7%;
-    color: blue;
 }
 
 .load{
